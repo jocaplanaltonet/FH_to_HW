@@ -1,5 +1,5 @@
 # FH_to_HW
-Migrarcao de ONU de OLT Fiberhome (=> RP1000) para Olt Huawei (MA5800)
+Migracao de ONU de OLT Fiberhome (=> RP1000) para Olt Huawei (MA5800)
 
 1 - Efetuar Backup da Olt gerando arquivo .cfg ex. fh1.cfg
 
