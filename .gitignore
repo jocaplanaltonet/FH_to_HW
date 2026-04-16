@@ -1,0 +1,23 @@
+# --- Dados Sensíveis e Configurações ---
+# Ignora arquivos de configuração extraídos da OLT
+config_*
+*.cfg
+
+# Ignorar listas de clientes e planilhas (Dados Privados)
+*.csv
+ONUList*
+original.sh
+
+# --- Arquivos Gerados pelo Script ---
+# Ignora os comandos de saída para não sujar o Git
+saida.txt
+add_service.txt
+add_vlans.txt
+onus_sem_vlan.txt
+resumo.txt
+ont-profiles.txt
+
+# --- Sistema e Temporários ---
+*.log
+.DS_Store
+Thumbs.db
