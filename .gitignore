@@ -7,7 +7,8 @@ config_*
 *.csv
 ONUList*
 original.sh
-
+git_update.sh
+providionar.py
 # --- Arquivos Gerados pelo Script ---
 # Ignora os comandos de saída para não sujar o Git
 saida.txt
